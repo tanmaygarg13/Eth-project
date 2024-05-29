@@ -60,7 +60,7 @@ myToken.mint(0x123..., 100);
 
 // Burn 50 tokens from address 0x123...
 myToken.burn(0x123..., 50);
-
+```
 
 ## Contributing
 
@@ -72,5 +72,5 @@ This project is inspired by the basic principles of ERC-20 tokens and aims to pr
 
 ## Contact
 
-For any inquiries, please contact [Your Name] at [Your Email].
+For any inquiries, please contact [Tanmay Garg] at [gargtanmay32@gmail.com].
 
